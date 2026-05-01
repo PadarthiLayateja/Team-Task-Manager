@@ -78,6 +78,9 @@
     "react": {
       "optional": true
     },
+    "scripts": {
+  "start": "node server.js"
+    },
     "react-dom": {
       "optional": true
     }
